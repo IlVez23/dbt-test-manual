@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: staging
+    database: terraform-cloud-412818
+    schema: TAXI_GREEN_DATA
+
+    tables:
+      - name: TAXI_GREEN_NEW
+      - name: taxi_2022
+
+
+
+
+
+## bisogna salvare e formattare il file per vedere il ineage
